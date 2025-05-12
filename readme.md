@@ -1,25 +1,3 @@
-## Hello git !
+## Hello git (Featured - feature 2/Fixed file)!
 
 < I 'm learning git...
-
-hrlgasfgsdfg
-sdf
-gs
-dfg
-s
-dfg
-sd
-fgsdfgsdfg
-< I 'm learning git...]
-fds
-
-
-d
-fsg
-
-sdfg
-
-sdfg
-
-dsf
-g

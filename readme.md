@@ -1,7 +1,3 @@
-## Hello git (Featured - feature 2/Fixed file)!
+## Hello git !
 
 < I 'm learning git...
-Added feature 2
-Bug Fixed
-
-new branch
